@@ -13,7 +13,7 @@
 <form action="LoginProc.do" method="post">
 	<table border="1">
 		<tr>
-			<td>아이디</td>
+			<td>아이디라구요</td>
 			<td><input type="text" name="id"></td>
 		</tr>
 		<tr>
