@@ -8,7 +8,7 @@ public class MemDTO {
 	private String name;
 	private String phone;
 	private String birth;
-	private String regdate;
+	private String regdate;   // MemDTO에 주석추가 해봄
 	private int level;
 	
 	public MemDTO() {
